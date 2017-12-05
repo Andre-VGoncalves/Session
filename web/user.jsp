@@ -4,7 +4,7 @@
     Author     : andrevieira
 --%>
 
-<%-- restrita1.jsp --%>
+
 <%@ page errorPage="mensagem.jsp" %>
 <%
     if (session.getAttribute("usuario") == null) {
